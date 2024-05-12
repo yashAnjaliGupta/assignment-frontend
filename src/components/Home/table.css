@@ -1,0 +1,12 @@
+.custom-table {
+    border-collapse: collapse; /* Merge borders */
+    border: 2px solid black; /* Add 2px black border around the table */
+    border-radius: 5px; /* Round the corners by 5px */
+  }
+  
+  .custom-table td,
+  .custom-table th {
+    border: 2px solid black; /* Add 2px black border to table cells */
+  }
+  
+  
